@@ -1,0 +1,24 @@
+[
+    {
+        "BrokerCnpj": "21976879000181",
+        "BrokerageFirmName": "Cicarini Corretora de Seguros Ltda",
+        "CanceledPolicy": 0,
+        "Certificate": "0046202100000048819",
+        "CreatedAt": "2022-04-11T19:44:39.667",
+        "InsuredDocument": "84125829934",
+        "InsuredDocumentType": "PF",
+        "InsuredName": "Sérgio Karacz Regnel",
+        "OverdueInstallments": 0,
+        "PendentInstallments": 0,
+        "PolicyEffectiveDate": "2021-05-21T19:44:39.667",
+        "PolicyExpireDate": "2022-05-21T19:44:39.667",
+        "PolicyNumber": "990046202100000048819",
+        "SalesPlatform": 2,
+        "Status": 1,
+        "StatusReason": 2,
+        "RenewalProductId": 0,
+        "ProductName": "",
+        "RenewalOperationId": 0,
+        "ApiProductId": 0
+    }
+]
